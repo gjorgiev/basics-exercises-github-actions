@@ -15,4 +15,4 @@ jobs:
       - name: Build project
         run: npm run build
       - name: Deploy to production
-        run: 'Deploying to production server...'
+        run: echo "Deploying to production server..."
